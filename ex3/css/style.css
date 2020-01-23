@@ -1,0 +1,20 @@
+body {
+	background-color: antiquewhite;
+
+}
+
+#style1 {
+	font-size: 30px;
+	color: indianred;
+}
+
+#style2 {
+	font-size:10px;
+	color: green;
+}
+
+#myFirstDiv {
+	width: 200px;
+	height: 200px;
+	background-color: purple;	
+}
